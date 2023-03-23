@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,400;1,600&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+.main-section {
+  padding: 20px;
+}
+
+.image-container {
+  height: 500px;
+  background-image: url(img/torre-guaceto.jpg);
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-family: "Prata", serif;
+  font-size: 64px;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+h3 {
+  font-family: "Prata", serif;
+  font-size: 24px;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+a {
+  font-weight: 600;
+  font-style: italic;
+  text-decoration: none;
+}
+
+h6 {
+  padding: 22px;
+  margin-bottom: 0px;
+  margin-top: 56px;
+  color: #fff;
+  border-radius: 6px;
+  background: linear-gradient(217deg, rgb(0, 79, 179), rgb(167, 150, 132));
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 22px;
+  border-bottom: 1px #dfdfdf;
+  color: rgb(0, 79, 179);
+}
+
+footer {
+  background-color: black;
+  color: #fff;
+  padding: 16px;
+  text-align: center;
+}
+
+a {
+  color: inherit;
+}
